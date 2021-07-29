@@ -22,7 +22,7 @@ class AndroidUtils {
 
 
         fun log(logValue: String) {
-            Log.d(DEFAULT_TAG, "############FORTEST1@--------------------------------")
+            Log.d(DEFAULT_TAG, "############FORTEST12@--------------------------------")
             Log.d(DEFAULT_TAG, logValue)
         }
     }
