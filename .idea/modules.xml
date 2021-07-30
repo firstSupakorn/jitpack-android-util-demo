@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/jitpack-android-util-demo.iml" filepath="$PROJECT_DIR$/.idea/jitpack-android-util-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GeneralTemplate/jitpack-android-util-demo.GeneralTemplate.iml" filepath="$PROJECT_DIR$/.idea/modules/GeneralTemplate/jitpack-android-util-demo.GeneralTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/jitpack-android-util-demo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/jitpack-android-util-demo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/jitpack-android-util-demo.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/jitpack-android-util-demo.util.iml" />
     </modules>
   </component>
 </project>
