@@ -30,30 +30,6 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
 
-    implementation 'org.ros.android_core:android_core_components:0.4.0'
-    //noinspection GradleDependency
-    implementation 'org.ros.rosjava_messages:diagnostic_msgs:[1.12,1.13)'
-    //noinspection GradleDependency
-    implementation 'org.ros.rosjava_messages:sensor_msgs:[1.12,1.13)'
-    //noinspection GradleDependency
-    implementation 'org.ros.rosjava_core:rosjava_geometry:[0.3,0.4)'
-    //noinspection GradleDependency
-    implementation 'org.ros.rosjava_messages:visualization_msgs:[1.12,1.13)'
-    //noinspection GradleCompatible
-    implementation 'com.android.support:appcompat-v7:28.0.0'
-    //noinspection GradleCompatible
-    implementation 'com.android.support:support-v4:28.0.0'
-    //noinspection GradleDependency
-    implementation 'org.ros.rosjava_messages:std_msgs:[0.5.0,0.6.0)'
-    implementation 'org.ros.rosjava_messages:std_srvs:[1.11.0,1.13.0)'
-    implementation 'org.ros.android_core:android_core_components:0.4.0'
-    implementation 'com.github.rosjava.android_remocons:common_tools:[0.3,0.4)'
-    implementation 'org.ros.rosjava_messages:move_base_msgs:[1.12,1.13)'
-    implementation 'org.ros.rosjava_messages:geometry_msgs:1.10.+'
-    implementation 'org.ros.rosjava_messages:nav_msgs:[1.12.5,1.13.0)'
-    implementation 'org.ros.rosjava_messages:rosjava_test_msgs:[0.2,0.3)'
-    implementation 'org.ros.rosjava_messages:actionlib_msgs:[1.11.0,1.13.0)'
-
     implementation 'com.android.support:appcompat-v7:25.3.1'
     testImplementation 'junit:junit:4.12'
     compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
