@@ -1,5 +1,9 @@
 
 
+package com.erluxman.GeneralTemplate
+
+import android.util.Log
+import android.view.View
 
 class TestFile {
 
