@@ -1,1 +1,2 @@
+include ':GeneralTemplate'
 include ':app', ':util'
